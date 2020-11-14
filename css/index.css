@@ -1,0 +1,57 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+#header{
+
+    background-color: darkblue;
+    width: 100%;
+    height: 150px;
+    margin: 0%;
+    padding: 0%;
+}
+#body2{
+
+    background-color: rgb(15, 214, 91);
+    width: 100%;
+    height: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+#logo{
+    left: 10px;
+    float: left;
+    width: 125px;
+    height: 125px;
+    margin: 10px 10px 10px 10px;
+}
+.top{
+    left: 200px;
+    position: relative;
+    float: left;
+    margin-top: 30px;
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+.mainhead{
+    top: 40px;
+    padding-left: 0px;
+    font-weight: bold;
+
+}
+#cv{
+    padding-left: 10px;
+    padding-top: 70px;
+    float: left;
+}
+#footer{
+
+    background-color: rgb(2, 2, 14);
+    position: relative;
+    width: 100%;
+    height: 200px;
+    margin: 0%;
+    padding: 0%;
+}
