@@ -6,7 +6,7 @@ body{
 
 #header{
 
-    background-color: darkblue;
+    background-color: rgb(20, 208, 241);
     width: 100%;
     height: 150px;
     margin: 0%;
@@ -127,4 +127,12 @@ body{
   #r7:checked ~ .s1{
     margin-left: -120%;
   }
-  
+#h1 {
+	margin: 1em 0 0.5em 0;
+	font-family: 'Titillium Web', sans-serif;
+	position: relative;  
+	line-height: 40px;
+	color: #355681;
+	border-radius: 0 10px 0 10px;
+	
+}
