@@ -1,6 +1,7 @@
 body{
     margin: 0%;
     padding: 0%;
+    
 }
 
 #header{
@@ -13,7 +14,7 @@ body{
 }
 #body2{
 
-    background-color: rgb(15, 214, 91);
+    background-color: yellowgreen;
     width: 100%;
     height: 100%;
     margin: 0%;
