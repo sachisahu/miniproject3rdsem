@@ -1,0 +1,4 @@
+function myfun()
+{
+    alert("hi")
+}
