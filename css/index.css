@@ -5,16 +5,28 @@ body{
 }
 
 #header{
-
     background-color: rgb(20, 208, 241);
     width: 100%;
-    height: 150px;
+    height: 70px;
     margin: 0%;
     padding: 0%;
 }
+#cv{
+  padding-left: 0px;
+  padding-top: 0px;
+  float: left;
+}
+.top{
+  left: 200px;
+  position: relative;
+  float: left;
+  margin-top: 1px;
+  padding-top: 0px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
 #body2{
-
-    background-color: yellowgreen;
+    background-color: rgb(175, 172, 168);
     width: 100%;
     height: 100%;
     margin: 0%;
@@ -27,25 +39,11 @@ body{
     height: 125px;
     margin: 10px 10px 10px 10px;
 }
-.top{
-    left: 200px;
-    position: relative;
-    float: left;
-    margin-top: 40px;
-    padding-top: 50px;
-    padding-right: 20px;
-    padding-left: 20px;
-}
 .mainhead{
     top: 40px;
     padding-left: 0px;
     font-weight: bold;
 
-}
-#cv{
-    padding-left: 10px;
-    padding-top: 70px;
-    float: left;
 }
 #footer{
 
@@ -57,8 +55,8 @@ body{
     padding: 0%;
 }
 .slidershow{
-    width: 1000px;
-    height: 450px;
+    width: 100%;
+    height: 650px;
     overflow: hidden;
   }
   .middle{
