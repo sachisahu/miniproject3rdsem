@@ -1,0 +1,15 @@
+#footer{
+
+    background-color: rgb(2, 2, 14);
+    position: relative;
+    width: 100%;
+    height: 200px;
+    margin: 0%;
+    padding: 0%;
+    padding-bottom: 0px;
+}
+#footer-bottom{
+    color: #fff;
+    padding-top: 170px;
+    padding-left: 40%;
+}

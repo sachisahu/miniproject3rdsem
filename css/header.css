@@ -1,0 +1,15 @@
+#header{
+    background-color: deepskyblue;
+    height: 50px;
+}
+#link{
+    position: relative;
+    float: right;
+    padding: 10px 10px 10px 10px ;
+    text-decoration: none;
+}
+#cv{
+    padding-top: 7px;
+    padding-left: 12px;
+    text-decoration: none;
+}

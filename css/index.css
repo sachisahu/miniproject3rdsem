@@ -45,18 +45,10 @@ body{
     font-weight: bold;
 
 }
-#footer{
 
-    background-color: rgb(2, 2, 14);
-    position: relative;
-    width: 100%;
-    height: 200px;
-    margin: 0%;
-    padding: 0%;
-}
 .slidershow{
-    width: 100%;
-    height: 650px;
+    width: 1000px;
+    height: 500px;
     overflow: hidden;
   }
   .middle{
@@ -133,8 +125,4 @@ body{
 	color: #355681;
 	border-radius: 0 10px 0 10px;	
 }
-#footer-bottom{
-    color: #fff;
-    padding-top: 170px;
-    padding-left: 40%;
-}
+
