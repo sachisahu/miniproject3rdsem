@@ -1,3 +1,6 @@
+body{
+  background-image: url("..//image/gallery/back.jpg");
+}
 #header{
     background-color: rgb(20, 208, 241);
     width: 100%;
@@ -25,4 +28,16 @@
     padding: 10px 10px 10px 10px;
     border-radius: 100px;
 }
+#gall{
+  display: flex;
+}
+#img4{
+   width: 50%;
+    height: 400px;
+    padding: 10px 10px 10px 10px;
+    border-radius: 100px;
+}
+#h2{
+  text-size-adjust: 100;
 
+}
