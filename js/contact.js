@@ -1,3 +1,6 @@
 function send(){
-    alert("Your Message Has Been Recived")
+    let name1;
+    name1=document.getElementsByClassName("name")[0].value;
+
+    alert(name1+",Your Message has been recived")
 }
