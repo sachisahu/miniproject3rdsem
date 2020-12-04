@@ -22,7 +22,7 @@ function signup(){
         alert("password should contain atleast one number and one special character");
         return false;
     }
-    //Phone Validation................................(under conc)
+    //Phone Validation........................(under conc)
     let phone = document.getElementById('phone').value;
     let regExp = /^(\([0-9]{3}\) |[0-9]{3}-)[0-9]{3}-[0-9]{4}/;
     let phone1 = phone.match(regExp);
